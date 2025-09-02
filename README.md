@@ -1,6 +1,6 @@
 # IMDbMovieListAnalysis
 
-## MovieRatingAnalysis
+## Movie Rating Analysis
 In this repository, I provided studies for several different topics involving movies and actors.
 
 ## Watchlist study
@@ -16,4 +16,4 @@ It's a study to explore the possibilities with my My Ratings list from IMDb. The
 In this study, I use a spreadsheet with my favorite actors names and birth dates.
 
 ## IMDBPY
-It's a file in which I practice the usage of the IMDBPY library with Python
+It's a file in which I practice the usage of the IMDBPY library with Python.
